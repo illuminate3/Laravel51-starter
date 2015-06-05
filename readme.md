@@ -1,5 +1,10 @@
-# in8.io #
+# Laravel 5.1 Starter Project #
 
-Starter BLE Microlocation Project
+## Features
 
-## Official Documentation
+Bootstrap
+Admin middleware
+Email account vertification
+Password reset pages
+Sample profile fields
+User dashboard e.g. www.flippers.com/@graham
